@@ -231,7 +231,8 @@ In the new version, I focused on Delta Air Lines and how it performs comparing t
 Data is taken from the following website on June 12, 2018:
 http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1
 
-data/airlines.csv contains the original data
+data/airlines.csv contains the original data but unable to upload it on github due to its size>25MB
+
 data/summary_airlines.csv contains the cleaned and summarized data which was used for the project.
 
 
